@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
+      "Id": "/home/homme/projet/DotNet/AppWeb/wwwroot/css/site1.css",
+      "PackagePath": "staticwebassets/css/site1.css"
+    },
+    {
       "Id": "/home/homme/projet/DotNet/AppWeb/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
     },
@@ -55,6 +59,10 @@
     {
       "Id": "/home/homme/projet/DotNet/AppWeb/wwwroot/images/pc9.jpg",
       "PackagePath": "staticwebassets/images/pc9.jpg"
+    },
+    {
+      "Id": "/home/homme/projet/DotNet/AppWeb/wwwroot/js/carousel.js",
+      "PackagePath": "staticwebassets/js/carousel.js"
     },
     {
       "Id": "/home/homme/projet/DotNet/AppWeb/wwwroot/js/site.js",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MdntMUpu1whFwaeDSX4RxFC3EVS9pKo2uRaHC6ebMS0=",
+  "Hash": "s0uyFJcC8srKiXH9+dqbRxH3BXz65Ie5nYnCV6IfrDg=",
   "Source": "AppWeb",
   "BasePath": "_content/AppWeb",
   "Mode": "Default",
@@ -38,12 +38,12 @@
       "OriginalItemSpec": "/home/homme/projet/DotNet/AppWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "/home/homme/projet/DotNet/AppWeb/obj/Debug/net9.0/compressed/29qqg1a7hf-2wdn0tcagk.gz",
+      "Identity": "/home/homme/projet/DotNet/AppWeb/obj/Debug/net9.0/compressed/29qqg1a7hf-cz4wnmeo0p.gz",
       "SourceId": "AppWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/homme/projet/DotNet/AppWeb/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/AppWeb",
-      "RelativePath": "css/site#[.{fingerprint=2wdn0tcagk}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=cz4wnmeo0p}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -52,8 +52,8 @@
       "RelatedAsset": "/home/homme/projet/DotNet/AppWeb/wwwroot/css/site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "04q3cbt1n9",
-      "Integrity": "ELHGWJaqJLSiHNBU01z60KylSVBtgSx33vW9mYUeDM8=",
+      "Fingerprint": "cgfvhp12js",
+      "Integrity": "BFs9+iCLwbebaw0MPbwfr2hOfEcD2XCiDW2XRMQSFlc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/homme/projet/DotNet/AppWeb/wwwroot/css/site.css"
@@ -99,6 +99,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/homme/projet/DotNet/AppWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Identity": "/home/homme/projet/DotNet/AppWeb/obj/Debug/net9.0/compressed/3d8lvp07jr-oe48uetp96.gz",
+      "SourceId": "AppWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/homme/projet/DotNet/AppWeb/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/AppWeb",
+      "RelativePath": "js/carousel#[.{fingerprint=oe48uetp96}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/homme/projet/DotNet/AppWeb/wwwroot/js/carousel.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "t3nnhft1gi",
+      "Integrity": "uTEfdo4rhEVJq6ob7SWDjVac7AnJhQ+Nq2fjViNQ/aM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/homme/projet/DotNet/AppWeb/wwwroot/js/carousel.js"
     },
     {
       "Identity": "/home/homme/projet/DotNet/AppWeb/obj/Debug/net9.0/compressed/448epbvl6c-46ein0sx1k.gz",
@@ -983,6 +1004,27 @@
       "OriginalItemSpec": "/home/homme/projet/DotNet/AppWeb/wwwroot/lib/jquery/dist/jquery.slim.min.map"
     },
     {
+      "Identity": "/home/homme/projet/DotNet/AppWeb/obj/Debug/net9.0/compressed/oradhu3crt-23u21n0e3e.gz",
+      "SourceId": "AppWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/homme/projet/DotNet/AppWeb/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/AppWeb",
+      "RelativePath": "css/site1#[.{fingerprint=23u21n0e3e}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/homme/projet/DotNet/AppWeb/wwwroot/css/site1.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "71j94zv740",
+      "Integrity": "ZZfD7S/Hlhvn4kFbXPR4DASEa8nmvV7R0VgLDGA7/Bk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/homme/projet/DotNet/AppWeb/wwwroot/css/site1.css"
+    },
+    {
       "Identity": "/home/homme/projet/DotNet/AppWeb/obj/Debug/net9.0/compressed/oz4ugw92jv-bqjiyaj88i.gz",
       "SourceId": "AppWeb",
       "SourceType": "Discovered",
@@ -1417,11 +1459,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "2wdn0tcagk",
-      "Integrity": "Enq4ZLeg+YYTo+gPA0nHW8P/ZnBc/MMBqG5CtxLyF0c=",
+      "Fingerprint": "cz4wnmeo0p",
+      "Integrity": "yK8kS4tJ90Dh47fZ3WPH3jdfMMiYWeosiL8VWqPn2NE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/site.css"
+    },
+    {
+      "Identity": "/home/homme/projet/DotNet/AppWeb/wwwroot/css/site1.css",
+      "SourceId": "AppWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/homme/projet/DotNet/AppWeb/wwwroot/",
+      "BasePath": "_content/AppWeb",
+      "RelativePath": "css/site1#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "23u21n0e3e",
+      "Integrity": "Mh7dLMRW8nSjUm2V+YVLXhz3GtG0ox86VLjw868G9Es=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/site1.css"
     },
     {
       "Identity": "/home/homme/projet/DotNet/AppWeb/wwwroot/favicon.ico",
@@ -1674,6 +1737,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/pc9.jpg"
+    },
+    {
+      "Identity": "/home/homme/projet/DotNet/AppWeb/wwwroot/js/carousel.js",
+      "SourceId": "AppWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/homme/projet/DotNet/AppWeb/wwwroot/",
+      "BasePath": "_content/AppWeb",
+      "RelativePath": "js/carousel#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oe48uetp96",
+      "Integrity": "sFFK+NaAXwuE1UU8gRJFiPshdtTCKP83WIzPJT9fgkY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/carousel.js"
     },
     {
       "Identity": "/home/homme/projet/DotNet/AppWeb/wwwroot/js/site.js",
@@ -2983,7 +3067,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 08:20:06 GMT"
+          "Value": "Mon, 10 Mar 2025 11:45:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3036,7 +3120,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 08:20:06 GMT"
+          "Value": "Mon, 10 Mar 2025 11:45:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3073,7 +3157,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 08:20:06 GMT"
+          "Value": "Mon, 10 Mar 2025 11:45:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3120,7 +3204,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 08:20:06 GMT"
+          "Value": "Mon, 10 Mar 2025 11:45:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3181,7 +3265,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 08:20:06 GMT"
+          "Value": "Mon, 10 Mar 2025 11:45:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3226,7 +3310,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 08:20:06 GMT"
+          "Value": "Mon, 10 Mar 2025 11:45:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3281,7 +3365,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 08:20:06 GMT"
+          "Value": "Mon, 10 Mar 2025 11:45:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3342,7 +3426,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 08:20:06 GMT"
+          "Value": "Mon, 10 Mar 2025 11:45:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3387,7 +3471,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 08:20:06 GMT"
+          "Value": "Mon, 10 Mar 2025 11:45:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3442,7 +3526,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 08:20:06 GMT"
+          "Value": "Mon, 10 Mar 2025 11:45:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3495,7 +3579,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 08:20:06 GMT"
+          "Value": "Mon, 10 Mar 2025 11:45:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3532,7 +3616,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 08:20:06 GMT"
+          "Value": "Mon, 10 Mar 2025 11:45:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3555,13 +3639,13 @@
       ]
     },
     {
-      "Route": "css/site.2wdn0tcagk.css",
-      "AssetFile": "/home/homme/projet/DotNet/AppWeb/obj/Debug/net9.0/compressed/29qqg1a7hf-2wdn0tcagk.gz",
+      "Route": "css/site.css",
+      "AssetFile": "/home/homme/projet/DotNet/AppWeb/obj/Debug/net9.0/compressed/29qqg1a7hf-cz4wnmeo0p.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001067235859"
+          "Quality": "0.000717875090"
         }
       ],
       "ResponseHeaders": [
@@ -3571,19 +3655,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "936"
+          "Value": "1392"
         },
         {
           "Name": "ETag",
-          "Value": "\"ELHGWJaqJLSiHNBU01z60KylSVBtgSx33vW9mYUeDM8=\""
+          "Value": "\"BFs9+iCLwbebaw0MPbwfr2hOfEcD2XCiDW2XRMQSFlc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 12:12:41 GMT"
+          "Value": "Mon, 10 Mar 2025 16:28:01 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -3599,26 +3683,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Enq4ZLeg+YYTo+gPA0nHW8P/ZnBc/MMBqG5CtxLyF0c=\""
+          "Value": "W/\"yK8kS4tJ90Dh47fZ3WPH3jdfMMiYWeosiL8VWqPn2NE=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "2wdn0tcagk"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-Enq4ZLeg+YYTo+gPA0nHW8P/ZnBc/MMBqG5CtxLyF0c="
+          "Value": "sha256-yK8kS4tJ90Dh47fZ3WPH3jdfMMiYWeosiL8VWqPn2NE="
         }
       ]
     },
     {
-      "Route": "css/site.2wdn0tcagk.css",
+      "Route": "css/site.css",
       "AssetFile": "/home/homme/projet/DotNet/AppWeb/wwwroot/css/site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3628,7 +3704,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2789"
+          "Value": "5221"
         },
         {
           "Name": "Content-Type",
@@ -3636,11 +3712,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Enq4ZLeg+YYTo+gPA0nHW8P/ZnBc/MMBqG5CtxLyF0c=\""
+          "Value": "\"yK8kS4tJ90Dh47fZ3WPH3jdfMMiYWeosiL8VWqPn2NE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 12:12:41 GMT"
+          "Value": "Mon, 10 Mar 2025 16:28:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yK8kS4tJ90Dh47fZ3WPH3jdfMMiYWeosiL8VWqPn2NE="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "/home/homme/projet/DotNet/AppWeb/obj/Debug/net9.0/compressed/29qqg1a7hf-cz4wnmeo0p.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1392"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BFs9+iCLwbebaw0MPbwfr2hOfEcD2XCiDW2XRMQSFlc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 16:28:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BFs9+iCLwbebaw0MPbwfr2hOfEcD2XCiDW2XRMQSFlc="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.cz4wnmeo0p.css",
+      "AssetFile": "/home/homme/projet/DotNet/AppWeb/obj/Debug/net9.0/compressed/29qqg1a7hf-cz4wnmeo0p.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000717875090"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1392"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BFs9+iCLwbebaw0MPbwfr2hOfEcD2XCiDW2XRMQSFlc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 16:28:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"yK8kS4tJ90Dh47fZ3WPH3jdfMMiYWeosiL8VWqPn2NE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cz4wnmeo0p"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yK8kS4tJ90Dh47fZ3WPH3jdfMMiYWeosiL8VWqPn2NE="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.cz4wnmeo0p.css",
+      "AssetFile": "/home/homme/projet/DotNet/AppWeb/wwwroot/css/site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5221"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yK8kS4tJ90Dh47fZ3WPH3jdfMMiYWeosiL8VWqPn2NE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 16:28:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3650,7 +3871,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2wdn0tcagk"
+          "Value": "cz4wnmeo0p"
         },
         {
           "Name": "label",
@@ -3658,13 +3879,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Enq4ZLeg+YYTo+gPA0nHW8P/ZnBc/MMBqG5CtxLyF0c="
+          "Value": "sha256-yK8kS4tJ90Dh47fZ3WPH3jdfMMiYWeosiL8VWqPn2NE="
         }
       ]
     },
     {
-      "Route": "css/site.2wdn0tcagk.css.gz",
-      "AssetFile": "/home/homme/projet/DotNet/AppWeb/obj/Debug/net9.0/compressed/29qqg1a7hf-2wdn0tcagk.gz",
+      "Route": "css/site.cz4wnmeo0p.css.gz",
+      "AssetFile": "/home/homme/projet/DotNet/AppWeb/obj/Debug/net9.0/compressed/29qqg1a7hf-cz4wnmeo0p.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3673,7 +3894,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "936"
+          "Value": "1392"
         },
         {
           "Name": "Content-Type",
@@ -3681,11 +3902,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ELHGWJaqJLSiHNBU01z60KylSVBtgSx33vW9mYUeDM8=\""
+          "Value": "\"BFs9+iCLwbebaw0MPbwfr2hOfEcD2XCiDW2XRMQSFlc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 12:12:41 GMT"
+          "Value": "Mon, 10 Mar 2025 16:28:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3703,7 +3924,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2wdn0tcagk"
+          "Value": "cz4wnmeo0p"
         },
         {
           "Name": "label",
@@ -3711,18 +3932,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ELHGWJaqJLSiHNBU01z60KylSVBtgSx33vW9mYUeDM8="
+          "Value": "sha256-BFs9+iCLwbebaw0MPbwfr2hOfEcD2XCiDW2XRMQSFlc="
         }
       ]
     },
     {
-      "Route": "css/site.css",
-      "AssetFile": "/home/homme/projet/DotNet/AppWeb/obj/Debug/net9.0/compressed/29qqg1a7hf-2wdn0tcagk.gz",
+      "Route": "css/site1.23u21n0e3e.css",
+      "AssetFile": "/home/homme/projet/DotNet/AppWeb/obj/Debug/net9.0/compressed/oradhu3crt-23u21n0e3e.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001067235859"
+          "Quality": "0.000700770848"
         }
       ],
       "ResponseHeaders": [
@@ -3732,15 +3953,176 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "936"
+          "Value": "1426"
         },
         {
           "Name": "ETag",
-          "Value": "\"ELHGWJaqJLSiHNBU01z60KylSVBtgSx33vW9mYUeDM8=\""
+          "Value": "\"ZZfD7S/Hlhvn4kFbXPR4DASEa8nmvV7R0VgLDGA7/Bk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 12:12:41 GMT"
+          "Value": "Tue, 11 Mar 2025 06:59:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Mh7dLMRW8nSjUm2V+YVLXhz3GtG0ox86VLjw868G9Es=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "23u21n0e3e"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site1.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mh7dLMRW8nSjUm2V+YVLXhz3GtG0ox86VLjw868G9Es="
+        }
+      ]
+    },
+    {
+      "Route": "css/site1.23u21n0e3e.css",
+      "AssetFile": "/home/homme/projet/DotNet/AppWeb/wwwroot/css/site1.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5637"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mh7dLMRW8nSjUm2V+YVLXhz3GtG0ox86VLjw868G9Es=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 06:59:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "23u21n0e3e"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site1.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mh7dLMRW8nSjUm2V+YVLXhz3GtG0ox86VLjw868G9Es="
+        }
+      ]
+    },
+    {
+      "Route": "css/site1.23u21n0e3e.css.gz",
+      "AssetFile": "/home/homme/projet/DotNet/AppWeb/obj/Debug/net9.0/compressed/oradhu3crt-23u21n0e3e.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1426"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZZfD7S/Hlhvn4kFbXPR4DASEa8nmvV7R0VgLDGA7/Bk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 06:59:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "23u21n0e3e"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site1.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZZfD7S/Hlhvn4kFbXPR4DASEa8nmvV7R0VgLDGA7/Bk="
+        }
+      ]
+    },
+    {
+      "Route": "css/site1.css",
+      "AssetFile": "/home/homme/projet/DotNet/AppWeb/obj/Debug/net9.0/compressed/oradhu3crt-23u21n0e3e.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000700770848"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1426"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZZfD7S/Hlhvn4kFbXPR4DASEa8nmvV7R0VgLDGA7/Bk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 06:59:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3760,19 +4142,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Enq4ZLeg+YYTo+gPA0nHW8P/ZnBc/MMBqG5CtxLyF0c=\""
+          "Value": "W/\"Mh7dLMRW8nSjUm2V+YVLXhz3GtG0ox86VLjw868G9Es=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Enq4ZLeg+YYTo+gPA0nHW8P/ZnBc/MMBqG5CtxLyF0c="
+          "Value": "sha256-Mh7dLMRW8nSjUm2V+YVLXhz3GtG0ox86VLjw868G9Es="
         }
       ]
     },
     {
-      "Route": "css/site.css",
-      "AssetFile": "/home/homme/projet/DotNet/AppWeb/wwwroot/css/site.css",
+      "Route": "css/site1.css",
+      "AssetFile": "/home/homme/projet/DotNet/AppWeb/wwwroot/css/site1.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3781,7 +4163,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2789"
+          "Value": "5637"
         },
         {
           "Name": "Content-Type",
@@ -3789,11 +4171,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Enq4ZLeg+YYTo+gPA0nHW8P/ZnBc/MMBqG5CtxLyF0c=\""
+          "Value": "\"Mh7dLMRW8nSjUm2V+YVLXhz3GtG0ox86VLjw868G9Es=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 12:12:41 GMT"
+          "Value": "Tue, 11 Mar 2025 06:59:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3803,13 +4185,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Enq4ZLeg+YYTo+gPA0nHW8P/ZnBc/MMBqG5CtxLyF0c="
+          "Value": "sha256-Mh7dLMRW8nSjUm2V+YVLXhz3GtG0ox86VLjw868G9Es="
         }
       ]
     },
     {
-      "Route": "css/site.css.gz",
-      "AssetFile": "/home/homme/projet/DotNet/AppWeb/obj/Debug/net9.0/compressed/29qqg1a7hf-2wdn0tcagk.gz",
+      "Route": "css/site1.css.gz",
+      "AssetFile": "/home/homme/projet/DotNet/AppWeb/obj/Debug/net9.0/compressed/oradhu3crt-23u21n0e3e.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3818,7 +4200,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "936"
+          "Value": "1426"
         },
         {
           "Name": "Content-Type",
@@ -3826,11 +4208,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ELHGWJaqJLSiHNBU01z60KylSVBtgSx33vW9mYUeDM8=\""
+          "Value": "\"ZZfD7S/Hlhvn4kFbXPR4DASEa8nmvV7R0VgLDGA7/Bk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 12:12:41 GMT"
+          "Value": "Tue, 11 Mar 2025 06:59:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3848,7 +4230,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ELHGWJaqJLSiHNBU01z60KylSVBtgSx33vW9mYUeDM8="
+          "Value": "sha256-ZZfD7S/Hlhvn4kFbXPR4DASEa8nmvV7R0VgLDGA7/Bk="
         }
       ]
     },
@@ -5049,6 +5431,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-XAE8Ahyy4kOd1uRv2OrX9VLKFWQN4lwJueIcWB1JyQQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/carousel.js",
+      "AssetFile": "/home/homme/projet/DotNet/AppWeb/obj/Debug/net9.0/compressed/3d8lvp07jr-oe48uetp96.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001721170396"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "580"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uTEfdo4rhEVJq6ob7SWDjVac7AnJhQ+Nq2fjViNQ/aM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 06:56:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"sFFK+NaAXwuE1UU8gRJFiPshdtTCKP83WIzPJT9fgkY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sFFK+NaAXwuE1UU8gRJFiPshdtTCKP83WIzPJT9fgkY="
+        }
+      ]
+    },
+    {
+      "Route": "js/carousel.js",
+      "AssetFile": "/home/homme/projet/DotNet/AppWeb/wwwroot/js/carousel.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1251"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sFFK+NaAXwuE1UU8gRJFiPshdtTCKP83WIzPJT9fgkY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 06:56:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sFFK+NaAXwuE1UU8gRJFiPshdtTCKP83WIzPJT9fgkY="
+        }
+      ]
+    },
+    {
+      "Route": "js/carousel.js.gz",
+      "AssetFile": "/home/homme/projet/DotNet/AppWeb/obj/Debug/net9.0/compressed/3d8lvp07jr-oe48uetp96.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "580"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uTEfdo4rhEVJq6ob7SWDjVac7AnJhQ+Nq2fjViNQ/aM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 06:56:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uTEfdo4rhEVJq6ob7SWDjVac7AnJhQ+Nq2fjViNQ/aM="
+        }
+      ]
+    },
+    {
+      "Route": "js/carousel.oe48uetp96.js",
+      "AssetFile": "/home/homme/projet/DotNet/AppWeb/obj/Debug/net9.0/compressed/3d8lvp07jr-oe48uetp96.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001721170396"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "580"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uTEfdo4rhEVJq6ob7SWDjVac7AnJhQ+Nq2fjViNQ/aM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 06:56:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"sFFK+NaAXwuE1UU8gRJFiPshdtTCKP83WIzPJT9fgkY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oe48uetp96"
+        },
+        {
+          "Name": "label",
+          "Value": "js/carousel.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sFFK+NaAXwuE1UU8gRJFiPshdtTCKP83WIzPJT9fgkY="
+        }
+      ]
+    },
+    {
+      "Route": "js/carousel.oe48uetp96.js",
+      "AssetFile": "/home/homme/projet/DotNet/AppWeb/wwwroot/js/carousel.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1251"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sFFK+NaAXwuE1UU8gRJFiPshdtTCKP83WIzPJT9fgkY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 06:56:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oe48uetp96"
+        },
+        {
+          "Name": "label",
+          "Value": "js/carousel.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sFFK+NaAXwuE1UU8gRJFiPshdtTCKP83WIzPJT9fgkY="
+        }
+      ]
+    },
+    {
+      "Route": "js/carousel.oe48uetp96.js.gz",
+      "AssetFile": "/home/homme/projet/DotNet/AppWeb/obj/Debug/net9.0/compressed/3d8lvp07jr-oe48uetp96.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "580"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uTEfdo4rhEVJq6ob7SWDjVac7AnJhQ+Nq2fjViNQ/aM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 06:56:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oe48uetp96"
+        },
+        {
+          "Name": "label",
+          "Value": "js/carousel.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uTEfdo4rhEVJq6ob7SWDjVac7AnJhQ+Nq2fjViNQ/aM="
         }
       ]
     },

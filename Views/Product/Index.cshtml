@@ -6,14 +6,16 @@
     <link rel="stylesheet" href="~/css/site.css" />
 </head>
 <body>
+
     <!-- Barre de navigation -->
     <nav class="navbar">
         <div class="navbar-container">
-            <a href="/" class="navbar-brand">AppWeb</a>
+            <!-- Lien Home corrigé -->
+            <a href="@Url.Action("NewPage", "Product")" class="navbar-brand">Home</a>
             <ul class="navbar-menu">
-                <li><a href="/">Accueil</a></li>
-                <li><a href="/Product/Index">Produits</a></li>
-                <li><a href="/Product/Create">Ajouter un produit</a></li>
+                <li><a href="@Url.Action("Apropos", "Product")">A propos</a></li>
+                <li><a href="@Url.Action("Index", "Product")">Produits</a></li>
+                <li><a href="@Url.Action("Create", "Product")">Ajouter un produit</a></li>
             </ul>
         </div>
     </nav>
@@ -23,8 +25,15 @@
         <div class="container">
             <h1>Liste des produits</h1>
 
-            <!-- Bouton pour ajouter un produit -->
-            <a href="/Product/Create" class="btn">Ajouter un produit</a>
+            <!-- Afficher les messages de succès ou d'erreur -->
+            @if (TempData["Success"] != null)
+            {
+                <div class="alert alert-success">@TempData["Success"]</div>
+            }
+            @if (TempData["Error"] != null)
+            {
+                <div class="alert alert-danger">@TempData["Error"]</div>
+            }
 
             <table>
                 <thead>
@@ -33,6 +42,7 @@
                         <th>Image</th>
                         <th>Prix</th>
                         <th>Description</th>
+                        <th>Actions</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -41,12 +51,11 @@
                         <tr>
                             <td>@product.Name</td>
                             <td><img src="@product.ImageUrl" alt="@product.Name" /></td>
-                            <td>
-                                @product.Price.ToString("C")
-                                <!-- Bouton "Acheter" -->
-                                <a href="/Product/Buy/@product.Id" class="btn btn-buy">Acheter</a>
-                            </td>
+                            <td>@product.Price.ToString("C")</td>
                             <td>@product.Description</td>
+                            <td>
+                                <a href="@Url.Action("Buy", "Product", new { id = product.Id })" class="btn btn-buy">Acheter</a>
+                            </td>
                         </tr>
                     }
                 </tbody>
@@ -54,12 +63,12 @@
         </div>
     </main>
 
+    <!-- Footer -->
     <footer class="footer border-top text-muted py-3">
         <div class="container">
             &copy; 2025 - AppWeb - <a href="@Url.Action("Privacy", "Home")">Privacy</a>
         </div>
     </footer>
-    
- 
+
 </body>
 </html>

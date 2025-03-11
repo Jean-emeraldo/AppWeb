@@ -7,28 +7,46 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/AppWeb.styles.css" asp-append-version="true" />
+    <style>
+        /* Style pour la boîte de dialogue personnalisée */
+        #customDialog {
+            display: none;
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: black;
+            color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+            z-index: 1000;
+        }
+        #customDialog p {
+            margin-bottom: 20px;
+            font-size: 16px;
+        }
+        #customDialog button {
+            margin-right: 10px;
+            padding: 8px 16px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 14px;
+        }
+        #confirmLogout {
+            background-color: #dc3545;
+            color: white;
+        }
+        #cancelLogout {
+            background-color: #6c757d;
+            color: white;
+        }
+    </style>
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-lg navbar-light bg-light border-bottom box-shadow mb-3">
-            <div class="container-fluid">
-                <a class="navbar-brand" href="@Url.Action("Index", "Home")">AppWeb</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarNav">
-                    <ul class="navbar-nav ms-auto">
-                        <li class="nav-item">
-                            <a class="nav-link active" href="@Url.Action("Index", "Home")">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="@Url.Action("Privacy", "Home")">Privacy</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
+        
     </header>
 
     <div class="container">
@@ -37,10 +55,33 @@
         </main>
     </div>
 
+    <!-- Boîte de dialogue personnalisée -->
+    <div id="customDialog">
+        <p>Voulez-vous vraiment vous déconnecter ?</p>
+        <button id="confirmLogout">OK</button>
+        <button id="cancelLogout">Annuler</button>
+    </div>
 
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
+    <script>
+        // Gestion de la déconnexion avec boîte de dialogue personnalisée
+        document.getElementById('deconnecter').addEventListener('click', function(event) {
+            event.preventDefault(); // Empêche le comportement par défaut du lien
+            document.getElementById('customDialog').style.display = 'block';
+        });
+
+        // Gestion du bouton "OK"
+        document.getElementById('confirmLogout').addEventListener('click', function() {
+            window.location.href = 'https://www.google.com'; // Remplacez par votre URL de déconnexion
+        });
+
+        // Gestion du bouton "Annuler"
+        document.getElementById('cancelLogout').addEventListener('click', function() {
+            document.getElementById('customDialog').style.display = 'none';
+        });
+    </script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

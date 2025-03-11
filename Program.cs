@@ -2,7 +2,6 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore;
 using GamingStore.Data;
 using GamingStore.Models;
 
@@ -27,9 +26,10 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
-app.UseStaticFiles(); // Activer les fichiers statiques (wwwroot)
+// Activer les fichiers statiques (pour que le navigateur puisse accéder aux fichiers JS, CSS, etc.)
+app.UseStaticFiles();
 
-// Initialiser la base de données
+// Initialiser la base de données (si nécessaire)
 using (var scope = app.Services.CreateScope())
 {
     var services = scope.ServiceProvider;
@@ -37,9 +37,10 @@ using (var scope = app.Services.CreateScope())
     DbInitializer.Initialize(context);
 }
 
-// Configurer les routes
+// Configurer les routes pour les contrôleurs
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Product}/{action=Index}/{id?}");
 
+// Démarrer l'application
 app.Run();
